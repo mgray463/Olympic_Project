@@ -13,3 +13,9 @@ able to find that there was very little relationship between the two variables:
 -Cluster Analysis
 
 -Time-Series Analysis
+
+
+
+Olympic Data link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+GDP Data link: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
